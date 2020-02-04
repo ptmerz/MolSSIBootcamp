@@ -5,6 +5,7 @@ MolSSI bootcamp
 
 # Add imports here
 from .functions import *
+from .atom_data import atomic_weights, atom_colors
 
 # Handle versioneer
 from ._version import get_versions
