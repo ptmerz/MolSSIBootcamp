@@ -1,8 +1,6 @@
 """
 molecool
 MolSSI bootcamp
-
-Some modification
 """
 import sys
 from setuptools import setup, find_packages
